@@ -1,0 +1,1 @@
+Gli URL generati verranno salvati in questa cartella
