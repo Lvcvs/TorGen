@@ -1,7 +1,9 @@
 <h2>TorGen</h2>
- Improvvisamente ti senti Dora l'esploratrice e vuoi navigare negli abissi? TorGen fa a caso tuo. <br>
- Genera URL .onion e li testa restituendo un codice di risposta.<br>
- I link generati vengono salvati nel file "links/links.txt", i link generati e funzionanti li trovi in "links/working_links.txt".
+ Improvvisamente ti senti Dora l'esploratrice e vuoi navigare negli abissi? Ecco a te la soluzione. <br>
+ TorGen genera URL .onion e li testa automaticamente.<br>
+ I link generati vengono salvati nel file "links/links_[id].txt", i link generati e attivi li puoi trovare in "links/working_links_[id].txt".
+ <br>
+ Testato su Ubuntu 18.04.
 
 <h2>Uso</h2>
  Avvia TorGen con
@@ -11,7 +13,6 @@
  Puoi verificare se [URL.onion] esiste con '--check':
  <h6>--check [URL]</h6>
 
- Testato su Ubuntu 18.04.
 
 <h2>Changelog</h2>
 v1.1<br>
@@ -20,4 +21,5 @@ v1.1<br>
     - Interfaccia migliorata<br>
 v1.0<br>
     - Release iniziale<br>
+
 
