@@ -1,9 +1,7 @@
 <h2>TorGen</h2>
- Improvvisamente ti senti Dora l'esploratrice e vuoi navigare negli abissi?
- TorGen fa a caso tuo. 
- Genera URL .onion e li testa restituendo un codice di risposta.
- I link generati vengono salvati nel file "links/links.txt",
- i link generati e funzionanti li trovi in "links/working_links.txt".
+ Improvvisamente ti senti Dora l'esploratrice e vuoi navigare negli abissi? TorGen fa a caso tuo. <br>
+ Genera URL .onion e li testa restituendo un codice di risposta.<br>
+ I link generati vengono salvati nel file "links/links.txt", i link generati e funzionanti li trovi in "links/working_links.txt".
 
 <h2>Uso</h2>
  Avvia TorGen con
