@@ -14,7 +14,6 @@
  <h6>-t, --test</h6>
  Puoi anche dare un file in input per testare i link:
  <h6>-f [FILE]</h6>
- <br>
  Testato su Ubuntu 18.04.
 
 <h2>Changelog</h2>
