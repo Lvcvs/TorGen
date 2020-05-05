@@ -5,13 +5,12 @@
 
 <h2>Uso</h2>
  Avvia TorGen con
- <h6>python torgen.py -g [NUM] [-t, --test] [-f [FILE]]</h6>
- Genera i link con l'argomento '-g':
- <h6>-g [NUM]</h6>
- Usa '-t' o '--test' per testare i link:
- <h6>-t, --test</h6>
- Puoi anche dare un file in input per testare i link:
- <h6>-f [FILE]</h6>
+ <h6>python3 torgen.py [NUM]</h6><br>
+ Puoi dare un file in input a TorGen per testare i link:
+ <h6>--file [FILE]</h6>
+ Puoi verificare se [URL.onion] esiste con '--check':
+ <h6>--check [URL]</h6>
+
  Testato su Ubuntu 18.04.
 
 <h2>Changelog</h2>
