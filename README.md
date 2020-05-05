@@ -7,9 +7,9 @@
 
 <h2>Uso</h2>
  Avvia TorGen con
- <h6>python3 torgen.py [NUM]</h6>
+ <h6>python3 torgen.py [NUM]</h6><br>
  Puoi dare un file in input a TorGen per testare i link:
- <h6>--file [FILE]</h6>
+ <h6>--file [FILE]</h6><br>
  Puoi verificare se [URL.onion] esiste con '--check':
  <h6>--check [URL]</h6>
 
