@@ -17,11 +17,11 @@
  <br>
  Testato su Ubuntu 18.04.
 
-<h2>Changelog</h2><br>
-*v1.1<br>
-    * Corretto un problema per la quale i link non venivano testati<br>
-    * Aggiunto comando '-f [FILE]'<br>
-    * Interfaccia migliorata<br>
-*v1.0<br>
-    * Release iniziale<br>
+<h2>Changelog</h2>
+v1.1<br>
+    - Corretto un problema per la quale i link non venivano testati<br>
+    - Aggiunto comando '-f [FILE]'<br>
+    - Interfaccia migliorata<br>
+v1.0<br>
+    - Release iniziale<br>
 
