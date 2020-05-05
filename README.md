@@ -17,7 +17,7 @@
 <h2>Changelog</h2>
 v1.1<br>
     - Corretto un problema per la quale i link non venivano testati<br>
-    - Aggiunto comando '-f [FILE]'<br>
+    - Aggiunte nuove funzioni<br>
     - Interfaccia migliorata<br>
 v1.0<br>
     - Release iniziale<br>
